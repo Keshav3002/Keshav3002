@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Keshav3002
-- 👀 I’m interested in Data Science and Web devlopment
+- 👀 I’m interested in Data Science and Web development
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
